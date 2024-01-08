@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../02.CSS"
+		},
+		{
+			"path": "../../AA_Homework"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "AA_Homework"
+	}
+}
