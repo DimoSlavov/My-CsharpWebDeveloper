@@ -1,2 +1,0 @@
-# My-CsharpWebDeveloper
-SoftUni  course
