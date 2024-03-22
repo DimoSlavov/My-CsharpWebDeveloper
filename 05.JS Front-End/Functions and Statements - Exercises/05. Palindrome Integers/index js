@@ -1,0 +1,19 @@
+function checkPalindromes(arr) {
+   
+    function isPalindrome(num) {
+        const numStr = num.toString(); 
+        const reversedStr = numStr.split('').reverse().join(''); 
+        return numStr === reversedStr; 
+    }
+
+   
+    for (let num of arr) {
+        
+        console.log(isPalindrome(num));
+    }
+}
+
+checkPalindromes([32,2,232,1010]);
+
+
+
